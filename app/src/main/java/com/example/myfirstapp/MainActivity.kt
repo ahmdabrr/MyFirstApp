@@ -11,10 +11,9 @@ class MainActivity : AppCompatActivity() {
 
     fun newFunction () {
         //tes1
-        //tes1
-        //tes1
-        //tes1
-        //tes1
+    }
+    fun newFunction () {
+        //tes2
     }
 
 }
