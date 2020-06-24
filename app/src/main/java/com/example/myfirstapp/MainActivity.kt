@@ -29,5 +29,7 @@ class MainActivity : AppCompatActivity() {
 
 
     //oke ini kita coba konflik
+
+    //alfi branch RemoteBranch
     //cek branch baru
 }
