@@ -24,5 +24,9 @@ class MainActivity : AppCompatActivity() {
 
 
 
+    //bikin onar alfi
+
+
+
     //oke ini kita coba konflik
 }
